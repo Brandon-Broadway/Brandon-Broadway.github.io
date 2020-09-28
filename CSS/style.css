@@ -1,0 +1,17 @@
+body{
+  padding:0px;
+  margin: 15px;
+  background-color:#ddeef3;
+  font-size:20px; 
+}
+p{
+	font-size:20px;
+		margin:0px;
+	padding:0px;
+}
+
+h2{
+	margin:0px;
+	padding:0px;
+	font-size: 25px;
+}
